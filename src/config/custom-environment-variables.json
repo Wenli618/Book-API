@@ -1,0 +1,7 @@
+{
+    "bookshelfPrivateKey":"BOOKSHELF_PRIVATE_KEY",
+    "port":"PORT",
+    "db":{
+        "connectionString":"DB_CONNECT_STRING"
+    }
+}
